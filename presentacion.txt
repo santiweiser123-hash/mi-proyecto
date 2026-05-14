@@ -2,3 +2,4 @@ Nombre: Santiago Naranjo Alba
 Programa: Ingeniería de software
 Lenguaje elegido: Java
 Descripción del Proyecto: Contador de positivos y negativos de los números creados aleatoriamente en vectores.
+Fecha: Mayo 16 del 2026
