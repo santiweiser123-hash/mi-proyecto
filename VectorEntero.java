@@ -85,4 +85,15 @@ public class VectorEntero {
             System.out.println("v[ " + i + "]= " + v[i]);
         }
     }
+
+     public int contarMayores(int limite) {
+        int cont = 0;
+
+        for (int i = 0; i < n; i++) {
+            if (v[i] > limite) {
+                cont++;
+            }
+        }
+        return cont;
+    }
 }

@@ -20,5 +20,7 @@ public class Mavenproject7 {
         v1.ImprimirVertical();
         System.out.println("Cantidad de positivos: " + v1.contarPositivos());
         System.out.println("Cantidad de negativos: " + v1.contarNegativos());
+        int limite = 50;
+        System.out.println("Cantidad de números mayores a " + limite + ": " + v1.contarMayores(limite));
     }
 }
